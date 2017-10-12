@@ -1,0 +1,9 @@
+{
+  "name": "ionic-socket-server",
+  "version": "0.0.1",
+  "description": "Simple Express server for real-time communication between connected clients",
+  "dependencies": {
+    "express": "^4.16.2",
+    "ws": "^3.2.0"
+  }
+}
